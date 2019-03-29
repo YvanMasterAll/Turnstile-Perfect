@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/PerfectlySoft/Perfect-CRUD.git",
         "state": {
           "branch": null,
-          "revision": "2fffbdc4d9c33e6c980a51768abe7d9f6d9bbac0",
-          "version": "1.2.2"
+          "revision": "5a947634b7ce0b991e8f455a61ce02449f2e6f36",
+          "version": "1.2.3"
         }
       },
       {
@@ -51,8 +51,8 @@
         "repositoryURL": "https://github.com/PerfectlySoft/Perfect-HTTP.git",
         "state": {
           "branch": null,
-          "revision": "d57687c25a6fa676dee0f9f61e1049a34a5fd96f",
-          "version": "3.2.0"
+          "revision": "3483aee28b2c742b0984a8173ac449741f5bbc3d",
+          "version": "3.2.4"
         }
       },
       {
@@ -60,8 +60,8 @@
         "repositoryURL": "https://github.com/PerfectlySoft/Perfect-HTTPServer.git",
         "state": {
           "branch": null,
-          "revision": "49981001cd6ac7c9e19ea06e3a94a58e8b2b3f98",
-          "version": "3.0.19"
+          "revision": "7fa3d450162c40506d7f416a86c93e53a70efdab",
+          "version": "3.0.20"
         }
       },
       {
@@ -87,8 +87,8 @@
         "repositoryURL": "https://github.com/PerfectlySoft/Perfect-Logger.git",
         "state": {
           "branch": null,
-          "revision": "00bd1cf9d01657c73d7b3d27d5cc6437cc583f39",
-          "version": "3.1.0"
+          "revision": "2c2777f26af247cf35788c15003d9c36bd98a34c",
+          "version": "3.2.0"
         }
       },
       {
@@ -123,8 +123,8 @@
         "repositoryURL": "https://github.com/PerfectlySoft/Perfect-Thread.git",
         "state": {
           "branch": null,
-          "revision": "04fcd2d29f50e05dbca907219322fd475c205c33",
-          "version": "3.0.5"
+          "revision": "fbbd7aec0ebe06fbeed58da54153226dd7613c4a",
+          "version": "3.0.6"
         }
       },
       {
@@ -132,8 +132,8 @@
         "repositoryURL": "https://github.com/PerfectlySoft/PerfectLib.git",
         "state": {
           "branch": null,
-          "revision": "60e44e4c62e293844581205528eefdc7e1153199",
-          "version": "3.1.2"
+          "revision": "5a08c2a596df23a3ae30b6ac9cb509a38384166c",
+          "version": "3.1.4"
         }
       },
       {
@@ -141,8 +141,8 @@
         "repositoryURL": "https://github.com/SwiftORM/Postgres-StORM.git",
         "state": {
           "branch": null,
-          "revision": "002c045b21a4719d97269cdb6f3c6d4ee2d39901",
-          "version": "3.1.0"
+          "revision": "620fcbe2de8205d5a3042e816d5bfd3a1ce87d1b",
+          "version": "3.2.0"
         }
       },
       {
@@ -150,8 +150,8 @@
         "repositoryURL": "https://github.com/SwiftORM/StORM.git",
         "state": {
           "branch": null,
-          "revision": "653f4bdfa67707252a4033a1004880b9a127603b",
-          "version": "3.2.4"
+          "revision": "6b29b65bae2b15c7c32c151141f9b3345ec7c881",
+          "version": "3.3.0"
         }
       },
       {
@@ -159,8 +159,8 @@
         "repositoryURL": "https://github.com/iamjono/SwiftMoment.git",
         "state": {
           "branch": null,
-          "revision": "9c6f0e8f590930f0f79a85e40e167b7b4cd071fa",
-          "version": "1.1.0"
+          "revision": "829be0bbb542655158cf7f20710895882de1151a",
+          "version": "1.2.0"
         }
       },
       {
@@ -168,17 +168,17 @@
         "repositoryURL": "https://github.com/iamjono/SwiftString.git",
         "state": {
           "branch": null,
-          "revision": "a628671f5d84a31bd9d4220eb434da888f364b79",
-          "version": "2.0.4"
+          "revision": "8017b12c3e20cf8fe4f9b5538a3aaf89562036c2",
+          "version": "2.1.1"
         }
       },
       {
         "package": "Turnstile",
-        "repositoryURL": "https://github.com/stormpath/Turnstile.git",
+        "repositoryURL": "https://github.com/YvanMasterAll/Turnstile",
         "state": {
           "branch": null,
-          "revision": "6426a6d3c17dca7c6070b9f76859c93b1ab2815a",
-          "version": "1.0.6"
+          "revision": "93bf54571ff61cfbd4ab291ea3f835e490cab772",
+          "version": "2.0.4"
         }
       }
     ]
